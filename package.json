@@ -9,6 +9,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "solfege": "file:solfege"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "electron": "^29.1.6",

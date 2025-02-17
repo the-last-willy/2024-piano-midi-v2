@@ -1,0 +1,24 @@
+{
+  "name": "solfege",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-last-willy/piano.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-last-willy/piano/issues"
+  },
+  "homepage": "https://github.com/the-last-willy/piano#readme",
+  "keywords": [],
+  "description": ""
+}
